@@ -1,6 +1,8 @@
 package main
 
+import "fmt"
+
 func main() {
 	// Print the greeting below.
-	println("hello world")
+	fmt.Println("Hello, Go!")
 }
